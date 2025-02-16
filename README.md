@@ -10,9 +10,9 @@ Bu araç, belirli bir ana domain için geçerli alt domainleri (subdomain) bulur
 
 **Kütüphaneleri yüklemek için aşağıdaki komutlardan birini kullanabilirsiniz:**
 
-pip install requests, sys             
+-pip install requests, sys             
 
-pip install -r requirements.txt
+-pip install -r requirements.txt
 
 
 **Alt domain listesini hazırlayın:**
